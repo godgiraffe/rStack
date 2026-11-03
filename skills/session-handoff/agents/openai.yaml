@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Handoff"
+  short_description: "建立可驗證、可續作、能跨代理接手的專案工作階段交接文件"
+  default_prompt: "使用 $session-handoff 檢查是否需要交接，並把目前工作整理成可由下一位接手者直接續作的專案文件。"
